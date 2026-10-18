@@ -2,7 +2,7 @@
 
 Predict whether an employee will be a **Low, Medium or High** performer, and give HR concrete next steps. Built end to end on a **synthetic HR dataset**: data generation, cleaning, EDA, model comparison, evaluation, a REST API and a themed web dashboard.
 
-![Dashboard](images/dashboard.png)
+![image alt](https://github.com/guraiml30/Employee-Performance-Predictor-/blob/e98e05a38d5bb7372abea35b8e4f5c64bc1a5bfc/Git1.png)
 
 ## Problem statement
 Managers spot strong and struggling employees late, usually at the annual review. This project uses HR data (training, workload, attendance, peer feedback, promotion history) to flag performance tiers early so HR can plan training, retention and promotions.
